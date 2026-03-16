@@ -1,13 +1,14 @@
 # User Registration API – Primeiro projeto com Spring Boot e Persistência de Dados.
 
 Vídeo: https://www.youtube.com/watch?v=yW7RrWfUeHE 
+
 Canal: Javanauta
 
 Descrição: Este projeto marca o início dos meus estudos com o framework Spring Boot. Trata-se de uma API REST para cadastro de usuários, onde apliquei conceitos de arquitetura em camadas e integração com banco de dados. O objetivo principal foi compreender a injeção de dependências do Spring, o funcionamento do Spring Data JPA e a exposição de endpoints para operações de CRUD (Create, Read, Update, Delete).
 
 Tecnologias & Ferramentas:
 
-    Linguagem: Java 23 (JDK 23).
+    Linguagem: Java 25 (JDK 25).
 
     Framework: Spring Boot.
 
